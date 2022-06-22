@@ -5,6 +5,6 @@
 ##### Mis conocimientos de lenguajes son los siguientes:
 
 <div align="center">
-    <img src="Conocimientos.svg"width="400" height="400" alt="knowledge">
+    <img src="Conocimientos.svg" alt="knowledge">
 </div>
 

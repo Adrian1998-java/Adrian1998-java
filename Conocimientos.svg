@@ -1,5 +1,6 @@
 <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
     <style>
     *{
     margin: 0;
@@ -140,7 +141,7 @@ body{
     color: rgba(255, 255, 255, 0.75)
 }
     </style>
-        <div class="container">
+     <div class="container">
             <div class="card">
                 <div class="percent" style="--clr:#04fc43;--num:85;">
                     <div class="dot"></div>
@@ -194,5 +195,7 @@ body{
                 </div>
             </div>
         </div>
+    </div>
+       
     </foreignObject>
 </svg>
