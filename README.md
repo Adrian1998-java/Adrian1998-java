@@ -11,3 +11,4 @@
     <img src="ConocimientosTypeScript.svg"width="400" height="400" alt="knowledge">
 </div>
 
+*Haciendo FreeStyle...*
